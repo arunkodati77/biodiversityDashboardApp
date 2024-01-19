@@ -43,6 +43,10 @@ To add new country we need to upload two files
 
 **Note:** Refresh the page to see the changes
 
+### Set View on map based on country selected
+In order to center the map based on selected country. I have preloaded the latitudes and logitudes info for each country using countries-list file
+
+        - path: ./inst/extdata/countries-list.csv
 
 ## Date Range Slider
 With below slider you can navigate to any point of when when event was recorded. You can even play the time by pressing play buttom at right bottom
