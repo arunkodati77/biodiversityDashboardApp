@@ -48,6 +48,15 @@ To add new country we need to upload two files
 With below slider you can navigate to any point of when when event was recorded. You can even play the time by pressing play buttom at right bottom
 ![image](https://github.com/arunkodati77/biodiversityDashboardApp/assets/69163895/7efe9ceb-fa38-4c2e-b083-4af95a7e3594)
 
+## Heat map
+This map is used to see how the population of selected species varied over the years. 
+
+        - red indicates very few of them left
+         - green indicates many of them were alive
+
+![image](https://github.com/arunkodati77/biodiversityDashboardApp/assets/69163895/ac50dc3d-9a92-483f-a341-975f95cdda7e)
+
+
 
 
 
