@@ -4,8 +4,8 @@ You can see the app running at: http://15.157.72.81:8080/
 
 it is hosted in AWS and running via shinyproxy server
 
-**username:** appsilon-hiring
-**password:** hire007
+    - **username:** appsilon-hiring
+      **password:** hire007
 
 
 ## App Folder Structure 
@@ -17,7 +17,7 @@ The entire app is dockerized to make it work with shinyproxy.
 ## Dockerfile (Not Uploaded in the repo)
 since dockerimages cannot persist data after restart, I am doing a volume mount to a local folder in the AWS EC2 Instance
  
- container-volumes: ["/root/occurrence_data:/root/shiny/inst/extdata/occurrenceData","/root/geojson_data:/root/shiny/inst/extdata/geojsonData"]
+    - container-volumes: ["/root/occurrence_data:/root/shiny/inst/extdata/occurrenceData","/root/geojson_data:/root/shiny/inst/extdata/geojsonData"]
 
 
 Default Country = "Poland"
