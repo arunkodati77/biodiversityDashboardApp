@@ -7,8 +7,6 @@ cleanEnvironment <- function() {
 }
 cleanEnvironment()
 options(shiny.maxRequestSize=30*1024^2)
-# readRenviron("./.Renviron")
-# Sys.setenv(tz="EST")
 
 library(shiny)
 library(shinydashboard)
