@@ -39,7 +39,8 @@ output$mapUI<- renderLeaflet({
     states$density = speciesDistribution$distinctSpecies
    
     label = generateOverviewLeafletLabels(stateNames,states$density)
-    
+ 
+    guide$init()$start()
     generateOverviewLeaflet(states,label,pal)
     
       

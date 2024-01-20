@@ -26,3 +26,5 @@ source("./Elements/Dashboard UI/timeline/Render_TimeLineChartUI.R", local=TRUE)$
 
 source("./Elements/menu/Render_Menu.R", local=TRUE)$value
 source("./Elements/common-text/Render_Text.R", local=TRUE)$value
+
+source("./Elements/Dashboard UI/guide.R", local=TRUE)$value

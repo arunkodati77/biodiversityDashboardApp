@@ -1,4 +1,4 @@
-setwd("C:/Appsilon/biodiversityApp")
+
 
 source("startup.R")
 source("ui.R")

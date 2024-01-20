@@ -8,8 +8,6 @@ output$countryFilter <- renderUI({
                     choices = countriesList(),
                     selected = selectedCountry(),
                     width=150
-                    
-                    
                   )
            ),
            column(3,

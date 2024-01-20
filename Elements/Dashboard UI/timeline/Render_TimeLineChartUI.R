@@ -1,7 +1,7 @@
 output$timeLineChartUI<- renderUI({
   if(!is.null(occurrenceData())){
     fluidRow(id="timelineChartRow1",
-             fluidRow(
+             fluidRow(id="timelineChartFilterRow",
                column(6,
                       pickerInput(
                         "timlineDrpDwn",

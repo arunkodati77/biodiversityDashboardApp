@@ -33,11 +33,11 @@ App_Header <- shinydashboardPlus::dashboardHeader(
 
 
 
-
 App_Body <- shinydashboard::dashboardBody(
   useShinyjs(),
   useShinyalert(),
   use_waiter(),
+  use_cicerone(),
   
   tabItems(
     
