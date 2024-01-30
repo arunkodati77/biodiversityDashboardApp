@@ -1,5 +1,7 @@
 # Biodiversity Dashboard
 
+# Note: At present App is not online (contact: arunkodati77@gmail.com)
+
 You can see the app running at: http://15.157.72.81:8080/
 
 it is hosted in AWS and running via shinyproxy server
