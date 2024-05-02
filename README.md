@@ -1,4 +1,4 @@
-# Biodiversity Dashboard
+# Biodiversity Dashboard - Demo for Hiring
 
 # Note: if the App is not online (contact: arunkodati77@gmail.com)
 
