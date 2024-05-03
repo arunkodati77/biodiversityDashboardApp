@@ -18,7 +18,7 @@ At present, the App is dockerized and pushed to a private repository at the dock
 I will pull the latest image from the AWS EC2 instance manually followed by restarting the shiny proxy server
 
     - docker rmi <imageid>
-    - docker pull arinkodati77/biodiversityapp:latest
+    - docker pull arunkodati77/biodiversityapp:latest
     - service restart shinyproxy
 
 
