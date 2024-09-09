@@ -2,7 +2,7 @@
 
 # Note: if the App is not online (contact: arunkodati77@gmail.com)
 
-You can see the app running at: http://3.99.157.247:8080
+You can see the app running at: http://3.96.186.183:8080
 
 it is hosted in AWS and running via shinyproxy server
 
